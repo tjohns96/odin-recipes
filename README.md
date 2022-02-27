@@ -1,2 +1,2 @@
 # odin-recipes
-This is a project practicing setting up a webpage of recipes. The point is to practice formatting, using images, and linking to different pages. 
+This is a project practicing setting up a webpage of recipes using only HTML. The point is to practice formatting, using images, and linking to different pages. I learned how to make a hompage using span, and got a lot more comfortable in HTML since this was my first project in the language. This project was made using only HTML, which has taught me the importance of CSS. 
